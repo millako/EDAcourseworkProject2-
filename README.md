@@ -1,3 +1,5 @@
+Use data_download.R file to download the Project file; and dir() to verify files uzipped in the directory.
+
 EDAcourseworkProject2
 
 Instructions
